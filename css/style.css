@@ -1,0 +1,36 @@
+.text_1 {
+    color: aqua;
+}
+
+.text_2 {
+    color: red;
+}
+
+.text_3{
+    color: blue;
+}
+
+
+body{
+    font-family: "poppins" ,sans-serif;
+}
+
+.box{
+    color: red;
+        /* font-size: 40px; */
+        /* border: 1px solid bleck; */
+        border-width: 4px;
+        /* border-style: solid; */
+        /* border-style: datted; */
+        /* border-style: dashed; */
+        /* border-style:double; */
+        /* border-style:groove; */
+        /* border-style: bleck; */
+}
+
+
+h1{
+    color: aqua;
+    font-size: 20px;
+    font-weight: 500;
+}
